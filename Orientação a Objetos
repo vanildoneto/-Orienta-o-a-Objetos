@@ -1,0 +1,28 @@
+Materiais: 
+
+carro
+
+metodo :ligar, acelerar, frear
+atributo: marca, modelo, cor
+--------------------------------------
+celular
+
+metodo : ligar, desligar, telefonar, conectar
+atributo: modelo, cor, fabricante, tamanho
+
+
+
+
+Abstratos:
+
+Filme
+
+metodo: assistir, pausar, continuar, adiantar
+atributo: produtora, duração, formato, gênero
+---------------------------------------
+Mensagem
+
+metodo: ler, enviar, receber
+atributo: tamanho, formato, fonte
+
+
